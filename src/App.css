@@ -1,7 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Kurale&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Londrina%20Shadow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Londrina%20Solid&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gabarito&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Limelight&display=swap");
 @import "tailwindcss";
 
 @theme {
   --color-light-purple: #E4C1FF; 
   --color-blue-white: #E5F3FE;
   --color-tpurple:#9747FF;
+  --font-kurale: "Kurale", cursive; 
+  --font-londrina: "Londrina Shadow", cursive;
+  --font-gabarito: "Gabarito", cursive;
+  --font-limelight: "Limelight", cursive;
+  --font-londrina-solid: "Londrina Solid", cursive;
 }
